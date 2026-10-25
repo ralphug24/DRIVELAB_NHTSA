@@ -26,6 +26,8 @@ DHH participants needed a visual way to recognize arrival. I made the arrival st
 
 The evaluation focus is whether a passenger can notice arrival, understand the message and complete confirmation without depending on an audio cue. This example documents a user need and design response; the linked case study explains the broader research process.
 
+My research judgment was to translate that reported need into a testable interaction requirement. The prototype shows the design decision; user testing must establish its usability and accessibility. [Read the example](docs/design-evidence.md#my-research-judgment).
+
 The [prototype evidence guide](docs/design-evidence.md) also includes an original low-vision navigation panel. These examples sit within a larger collection of mobile and in-vehicle group/session prototypes.
 
 ## Repository contents

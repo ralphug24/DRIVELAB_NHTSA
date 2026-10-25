@@ -23,4 +23,6 @@ Observations can reveal an interaction difficulty, interviews can explain the ex
 
 I used on-road sessions, observation and participant feedback to evaluate interface interactions. The public material presents research responsibilities, selected prototype evidence and design rationale. It does not present participant-level records or unpublished study results.
 
+For the DHH arrival example, my design judgment was to turn a reported communication need into a specific, testable requirement: recognizing arrival visually and identifying the confirmation action. The prototype demonstrates the implemented message and control; testing must establish how well passengers use them.
+
 [Portfolio case study](https://ralphugboko.dev/projects?discipline=ux-research&project=drive-lab)

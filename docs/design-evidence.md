@@ -2,13 +2,19 @@
 
 ## Visual arrival confirmation
 
-**User need:** deaf and hard-of-hearing participants needed a visual way to know that they had reached their destination.
+**Reported user need:** deaf and hard-of-hearing participants needed a visual way to know that they had reached their destination.
 
 **My design response:** I displayed “Destination Reached,” a written instruction and a prominent Confirm button. The interface makes the journey-state change and next action visible.
 
 **Evaluation focus:** can a passenger notice arrival, understand the message and complete confirmation without an audio cue?
 
 **Design lesson:** accessibility needs to shape both the notification of a journey event and the action a passenger takes in response.
+
+## My research judgment
+
+I translated the reported need into a testable interaction requirement: a passenger should be able to recognize arrival visually and identify the confirmation action. I paired an explicit arrival message with a visible next step in the prototype.
+
+The screen documents that design response. User testing is needed to establish whether passengers reliably notice, understand and use it; the artifact alone does not establish prototype accessibility.
 
 ![Original Figma detail from the DHH in-vehicle prototype](../assets/dhh-arrival.png)
 
